@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428610987519",
+    "project_id": "hey-chats-2f7e5",
+    "storage_bucket": "hey-chats-2f7e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428610987519:android:1b36d4cb7a42d5991e33ca",
+        "android_client_info": {
+          "package_name": "com.example.hey_chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428610987519-mgninbmuif7upm5813k7o1v8141ntqu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hey_chats",
+            "certificate_hash": "80de7721013a6d9787bede5c942df8aeb91a7a20"
+          }
+        },
+        {
+          "client_id": "428610987519-t2rovue9lfrsvfffd0bp51g5j8bpptg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBiTnOhfzna1gHCh3Fg9St6opGM9mZ3Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428610987519-t2rovue9lfrsvfffd0bp51g5j8bpptg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
